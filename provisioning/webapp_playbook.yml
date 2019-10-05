@@ -34,7 +34,7 @@
     - ansible_role_elasticsearch
     #- ansible_role_magento23_commerce
     - ansible_role_magento23_community
-    - ansible_role_oh_my_zsh
+    - role: ansible_role_oh_my_zsh
       users:
         - username: vagrant
           oh_my_zsh:
