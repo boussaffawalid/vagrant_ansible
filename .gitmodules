@@ -49,3 +49,9 @@
 [submodule "provisioning/roles/ansible_role_java8"]
 	path = provisioning/roles/ansible_role_java8
 	url = https://github.com/budnerp/ansible_role_java8.git
+[submodule "provisioning/roles/ansible_role_oh_my_zsh"]
+	path = provisioning/roles/ansible_role_oh_my_zsh
+	url = https://github.com/gantsign/ansible-role-oh-my-zsh
+[submodule "provisioning/roles/ansible_role_magento23_community"]
+	path = provisioning/roles/ansible_role_magento23_community
+	url = https://github.com/budnerp/ansible_role_magento23_community.git
